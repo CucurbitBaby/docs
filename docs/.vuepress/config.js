@@ -28,6 +28,10 @@ module.exports = {
         ]
       }
     ],
-    sidebar: 'auto'
+    sidebar: [
+      '',
+      'news',
+      'news2'
+    ]
   }
 }
