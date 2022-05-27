@@ -1,3 +1,6 @@
+---
+title: 我是新闻1 title覆盖一级标题 Hello world
+---
 # Hello News
 我是新闻路由！
 
